@@ -12,3 +12,5 @@ https://github.com/xiaomaoJT/QxScript
 https://github.com/TTimika/hiker_info  
 https://github.com/yuanwangokk-1/HiKer  
 https://github.com/chmg2025/script  
+https://github.com/axtyet/Luminous  
+https://github.com/89996462/Quantumult-X
